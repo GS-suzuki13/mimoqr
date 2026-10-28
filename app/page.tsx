@@ -99,7 +99,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="absolute -bottom-6 -left-6 hidden rotate-[-6deg] rounded-2xl bg-white p-3 shadow-xl sm:block">
+          <div className="absolute -bottom-8 -right-8 hidden rotate-[6deg] rounded-2xl bg-white p-3 shadow-xl sm:block">
             <QrCode className="h-14 w-14 text-mimo-ink" />
             <p className="mt-1 text-center text-[10px] font-bold uppercase tracking-wider text-mimo-muted">Aponte a câmera</p>
           </div>
